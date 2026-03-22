@@ -21,7 +21,7 @@ public class ApiClient {
         LANG_CODES.put("French",     "fr");
         LANG_CODES.put("Spanish",    "es");
         LANG_CODES.put("German",     "de");
-        LANG_CODES.put("Thai",       "th");
+       
         LANG_CODES.put("Vietnamese", "vi");
         LANG_CODES.put("Indonesian", "id");
         LANG_CODES.put("Arabic",     "ar");
