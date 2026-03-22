@@ -9,12 +9,12 @@ public class TranslateMachine extends JFrame {
 
     private static final String[] SOURCE_LANGS = {
             "Auto Detect", "English", "Khmer", "Chinese", "Japanese",
-            "Korean", "French", "Spanish", "German", "Thai",
+            "Korean", "French", "Spanish", "German",
             "Vietnamese", "Indonesian", "Arabic", "Portuguese", "Russian", "Hindi"
     };
     private static final String[] TARGET_LANGS = {
             "English", "Khmer", "Chinese", "Japanese", "Korean",
-            "French", "Spanish", "German", "Thai", "Vietnamese",
+            "French", "Spanish", "German", "Vietnamese",
             "Indonesian", "Arabic", "Portuguese", "Russian", "Hindi"
     };
 
