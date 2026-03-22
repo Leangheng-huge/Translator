@@ -106,19 +106,3 @@ No Maven, no Gradle, no external JARs needed.
 
 ---
 
-## 🛠️ Build with IDEs
-
-**IntelliJ IDEA:**
-1. Open folder as a project
-2. Right-click `TranslateMachine.java` → Run
-
-**VS Code:**
-1. Install "Extension Pack for Java"
-2. Open folder
-3. Click ▶ Run on `TranslateMachine.java`
-
----
-
-## 👤 Author
-
-Made by **Migasuki**
