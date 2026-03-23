@@ -55,7 +55,6 @@ java TranslateMachine
 | French     | fr    |
 | Spanish    | es    |
 | German     | de    |
-| Thai       | th    |
 | Vietnamese | vi    |
 | Indonesian | id    |
 | Arabic     | ar    |
@@ -67,7 +66,7 @@ java TranslateMachine
 
 ## ✨ Features
 
-- **16 languages** supported
+- **15 languages** supported
 - **Auto Detect** source language
 - **Swap** button — flip source/target language and text
 - **Copy** translation to clipboard
